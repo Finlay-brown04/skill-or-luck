@@ -91,7 +91,7 @@ Market data: the Fama/French factors from the [Kenneth R. French Data Library](h
 
 ## AI assistance
 
-I built this with Claude (Anthropic's AI assistant) as a tutor for the R code. I ran every script, checked the outputs against a hand calculation, `lm()` and exact non-central t power, and I can explain each step.
+I built this with Claude as a tutor for the R code. I ran every script, checked the outputs against a hand calculation, `lm()` and exact non-central t power, and I can explain each step.
 
 ## Licence
 
