@@ -1,0 +1,11 @@
+Skill or Luck? simulation run
+Run completed: 2026-11-03 15:59:26 GMT
+Random seed: 20261101
+Random number generator: Mersenne-Twister, Inversion, Rejection
+Repetitions per scenario: 1000
+Scenarios: 27 = alpha (0, 0.002, 0.004) x residual SD (0.02, 0.04, 0.06) x track record (36, 60, 120 months)
+Market input: final T months of Jan 2015 - Dec 2024 Fama/French Mkt-RF (monthly, decimals)
+Fund returns: SIMULATED. Beta = 1, errors independent normal, mean zero
+Test: one-sided 5% t-test of H0 alpha <= 0 vs H1 alpha > 0, df = T - 2, conventional OLS SEs
+R version: R version 4.5.2 (2025-10-31)
+Elapsed seconds: 9.5

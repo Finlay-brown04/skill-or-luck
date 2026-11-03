@@ -1,0 +1,5 @@
+Extra validation run (06_extra_validation.R)
+Run completed: 2026-11-03 16:00:29 GMT
+Seed: 20261102
+Repetitions per zero-alpha scenario: 20000
+Purpose: check false-positive calibration; main results are unchanged.

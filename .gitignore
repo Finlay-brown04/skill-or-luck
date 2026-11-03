@@ -1,0 +1,13 @@
+# R and RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Data: downloaded or derived from the Kenneth French Data Library.
+# The scripts recreate these, so they are not stored in the repository.
+data/raw/
+data/processed/
+*.zip
